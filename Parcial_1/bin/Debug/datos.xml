@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Informacion>
+    <cSolicitante>Javier</cSolicitante>
+    <cDepartamento>Redes</cDepartamento>
+    <cDestinatario>Jefe de planta</cDestinatario>
+    <cEquipo>Servidordor</cEquipo>
+    <cDetalles>daño</cDetalles>
+    <cFecha>2024-03-04T20:08:32.6207581-06:00</cFecha>
+    <cFotografia />
+  </Informacion>
+</DocumentElement>
